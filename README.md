@@ -1,5 +1,4 @@
 # [Sensys 2023] On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems
-The source paper is currently under the review process.
 
 ## Introduction
 
@@ -78,23 +77,14 @@ by arguments above, memory consumption reduces as,
 ![reduction](https://github.com/sensys364/OnNAS/blob/master/images/reduction.png)
 
 
-## Found architecture
----
-
-__Diagram below shows the result of On-NAS, TFML and On-Device NAS.__
-
-![Results](https://github.com/sensys364/OnNAS/blob/master/images/arch_int.png)
-
-__a ) Reduction Cell, Omniglot. b ) Normal Cell, Omniglot.__ \
-__c ) Reduction Cell, miniImageNet. d ) Normal Cell, miniImageNet.__
 
 
 
 
 ## Purpose of this project
 ---
-This is the implementation of Sensys Submission #364, with detailed hyperparameter settings. 
-This software is solely developed for the publication, Sensys 2023 #364.
+This is the implementation of On-NAS, with detailed hyperparameter settings. 
+
 
 
 
