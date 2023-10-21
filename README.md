@@ -1,9 +1,9 @@
-# [Sensys 2023 # 364] On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems
+# [Sensys 2023] On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems
 The source paper is currently under the review process.
 
 ## Introduction
 
-This repository provides code for *On-NAS*, which is an open-sourced implementation of Submission #364 paper named *On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems*. 
+This repository provides code for *On-NAS*, which is an open-sourced implementation of paper named *On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems*. 
 The On-NAS is consisted of two sequential parts, Two-Fold Meta-Learning and On-Device NAS. 
 
 In the former part, Two-Fold Meta-Learning, which we denoted as TFML in the code, aims to create *meta-cell* which contains condensed and folded parameter for the given task,
@@ -14,9 +14,6 @@ On-Device NAS aims to directly operate the Neural Architecture Search at target 
 
 Scripts (**tfml.sh, tfml_onnas.sh**)  we provided reproduces the representative settings of On-NAS (ex. miniImageNet, 5-shot)  for the users.
 
-## Notes
-
-*codes are being updated intermittently, commit history and github activities are being cleaned for the submission.*
 
 
 ## Setting up the environments
