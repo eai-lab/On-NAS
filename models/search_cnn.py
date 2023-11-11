@@ -2,8 +2,10 @@
 
 This code have been written for a research purpose. 
 
-Licenses and code references will be added at camera-ready version of the code. 
-
+'''
+Based on https://github.com/boschresearch/metanas
+which is licensed under GNU Affero General Public License,
+'''
 """
 
 import random

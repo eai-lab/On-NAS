@@ -1,4 +1,9 @@
 """ Search cell """
+'''
+Based on https://github.com/boschresearch/metanas
+which is licensed under GNU Affero General Public License,
+'''
+
 import os
 import torch
 import torch.nn as nn
