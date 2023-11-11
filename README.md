@@ -3,7 +3,6 @@
 * Code is based on implementation of [CVPR 2020] MetaNAS : https://github.com/boschresearch/metanas
 
 Code implementation of  [Sensys 2023] On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems.
-Base code referred [CVPR 2020] Meta-Learning of Neural Architectures for Few-Shot Learning.
 ## Introduction
 
 This repository provides code for *On-NAS*, which is an open-sourced implementation of paper named *On-NAS: On-Device Neural Architecture Search on Memory-Constrained Intelligent Embedded Systems*. 
